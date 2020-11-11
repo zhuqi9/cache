@@ -1,0 +1,9 @@
+# github.com/allegro/bigcache/v2 v2.2.4
+github.com/allegro/bigcache/v2
+github.com/allegro/bigcache/v2/queue
+# github.com/cespare/xxhash v1.1.0
+github.com/cespare/xxhash
+# github.com/coocood/freecache v1.1.1
+github.com/coocood/freecache
+# github.com/matryer/is v1.4.0
+github.com/matryer/is
